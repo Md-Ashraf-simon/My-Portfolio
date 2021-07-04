@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-size: 54px;
+}
+.heading-color {
+    color: blue;
+}
+section {
+    display: flex;
+}
+.child-1 {
+    width: 50%;
+    padding-left: 3%;
+}
+.child-1 img {
+    width: 75%;
+}
