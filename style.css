@@ -10,6 +10,7 @@ h1 {
 }
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 .child-1 {
     width: 50%;
@@ -17,6 +18,9 @@ section {
 }
 .child-1 img {
     width: 75%;
+}
+.child-1 p {
+    text-align: justify;
 }
 .ancor-btn {
     text-decoration: none;
@@ -30,4 +34,13 @@ section {
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat; 
 
+}
+.area-2 {
+    background-image: url('img/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#a-2-p {
+    padding-right: 20%;
+    text-align: justify;
 }
