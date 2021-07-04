@@ -1,5 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
+    margin: 0%;
 }
 h1 {
     font-size: 54px;
@@ -16,4 +17,17 @@ section {
 }
 .child-1 img {
     width: 75%;
+}
+.ancor-btn {
+    text-decoration: none;
+    background-image: linear-gradient(360deg , #a110ff, #002cff);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.top-area {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat; 
+
 }
